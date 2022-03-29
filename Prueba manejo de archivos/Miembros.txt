@@ -1,0 +1,4 @@
+Nombre	Apellido	Edad
+Agustin	Arias		32
+Martin	Gonzalez	31
+Ximena	Andaluz		34
